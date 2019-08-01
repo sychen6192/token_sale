@@ -1,9 +1,9 @@
 pragma solidity ^0.4.24;
 
 contract DappToken{
-	string public name = "DappToken";
-	string public symbol = "DAPP";
-	string public standard = "DappToken v1.0";
+	string public name = "SycloudToken";
+	string public symbol = "SYC";
+	string public standard = "SycloudToken v1.0";
 	uint256 public totalSupply;
 	
 	event Transfer(
