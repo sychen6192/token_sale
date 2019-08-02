@@ -99,8 +99,8 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405234801561001057600080fd5b5060405160408061081a8339810180604052810190808051906020019092919080519060200190929190505050336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555081600160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550806002819055505050610744806100d66000396000f30060806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680633610724e14610072578063380d831b14610092578063518ab2a8146100a957806355a373d6146100d45780637ff9b5961461012b575b600080fd5b61009060048036038101908080359060200190929190505050610156565b005b34801561009e57600080fd5b506100a76103fe565b005b3480156100b557600080fd5b506100be6106b6565b6040518082815260200191505060405180910390f35b3480156100e057600080fd5b506100e96106bc565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561013757600080fd5b506101406106e2565b6040518082815260200191505060405180910390f35b610162816002546106e8565b3414151561016f57600080fd5b80600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561022d57600080fd5b505af1158015610241573d6000803e3d6000fd5b505050506040513d602081101561025757600080fd5b81019080805190602001909291905050501015151561027557600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb33836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561033a57600080fd5b505af115801561034e573d6000803e3d6000fd5b505050506040513d602081101561036457600080fd5b8101908080519060200190929190505050151561038057600080fd5b806003600082825401925050819055507f5e5e995ce3133561afceaa51a9a154d5db228cd7525d34df5185582c18d3df093382604051808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019250505060405180910390a150565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561045957600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561057657600080fd5b505af115801561058a573d6000803e3d6000fd5b505050506040513d60208110156105a057600080fd5b81019080805190602001909291905050506040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561063657600080fd5b505af115801561064a573d6000803e3d6000fd5b505050506040513d602081101561066057600080fd5b8101908080519060200190929190505050151561067c57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b60035481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60025481565b6000808214806107075750828283850292508281151561070457fe5b04145b151561071257600080fd5b929150505600a165627a7a72305820e0e5c76d413bd5e848fbbcade761762b8a9153ff8af9e931a7b28cd46211731f0029",
-  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680633610724e14610072578063380d831b14610092578063518ab2a8146100a957806355a373d6146100d45780637ff9b5961461012b575b600080fd5b61009060048036038101908080359060200190929190505050610156565b005b34801561009e57600080fd5b506100a76103fe565b005b3480156100b557600080fd5b506100be6106b6565b6040518082815260200191505060405180910390f35b3480156100e057600080fd5b506100e96106bc565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561013757600080fd5b506101406106e2565b6040518082815260200191505060405180910390f35b610162816002546106e8565b3414151561016f57600080fd5b80600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561022d57600080fd5b505af1158015610241573d6000803e3d6000fd5b505050506040513d602081101561025757600080fd5b81019080805190602001909291905050501015151561027557600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb33836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561033a57600080fd5b505af115801561034e573d6000803e3d6000fd5b505050506040513d602081101561036457600080fd5b8101908080519060200190929190505050151561038057600080fd5b806003600082825401925050819055507f5e5e995ce3133561afceaa51a9a154d5db228cd7525d34df5185582c18d3df093382604051808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019250505060405180910390a150565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561045957600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561057657600080fd5b505af115801561058a573d6000803e3d6000fd5b505050506040513d60208110156105a057600080fd5b81019080805190602001909291905050506040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561063657600080fd5b505af115801561064a573d6000803e3d6000fd5b505050506040513d602081101561066057600080fd5b8101908080519060200190929190505050151561067c57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b60035481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60025481565b6000808214806107075750828283850292508281151561070457fe5b04145b151561071257600080fd5b929150505600a165627a7a72305820e0e5c76d413bd5e848fbbcade761762b8a9153ff8af9e931a7b28cd46211731f0029",
+  "bytecode": "0x608060405234801561001057600080fd5b5060405160408061081a8339810180604052810190808051906020019092919080519060200190929190505050336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555081600160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550806002819055505050610744806100d66000396000f30060806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680633610724e14610072578063380d831b14610092578063518ab2a8146100a957806355a373d6146100d45780637ff9b5961461012b575b600080fd5b61009060048036038101908080359060200190929190505050610156565b005b34801561009e57600080fd5b506100a76103fe565b005b3480156100b557600080fd5b506100be6106b6565b6040518082815260200191505060405180910390f35b3480156100e057600080fd5b506100e96106bc565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561013757600080fd5b506101406106e2565b6040518082815260200191505060405180910390f35b610162816002546106e8565b3414151561016f57600080fd5b80600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561022d57600080fd5b505af1158015610241573d6000803e3d6000fd5b505050506040513d602081101561025757600080fd5b81019080805190602001909291905050501015151561027557600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb33836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561033a57600080fd5b505af115801561034e573d6000803e3d6000fd5b505050506040513d602081101561036457600080fd5b8101908080519060200190929190505050151561038057600080fd5b806003600082825401925050819055507f5e5e995ce3133561afceaa51a9a154d5db228cd7525d34df5185582c18d3df093382604051808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019250505060405180910390a150565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561045957600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561057657600080fd5b505af115801561058a573d6000803e3d6000fd5b505050506040513d60208110156105a057600080fd5b81019080805190602001909291905050506040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561063657600080fd5b505af115801561064a573d6000803e3d6000fd5b505050506040513d602081101561066057600080fd5b8101908080519060200190929190505050151561067c57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b60035481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60025481565b6000808214806107075750828283850292508281151561070457fe5b04145b151561071257600080fd5b929150505600a165627a7a72305820f2b0e0de350a87d16e07b97a0fd78ec9245ac7b7ca5305d48fdce69bdcfa9b910029",
+  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680633610724e14610072578063380d831b14610092578063518ab2a8146100a957806355a373d6146100d45780637ff9b5961461012b575b600080fd5b61009060048036038101908080359060200190929190505050610156565b005b34801561009e57600080fd5b506100a76103fe565b005b3480156100b557600080fd5b506100be6106b6565b6040518082815260200191505060405180910390f35b3480156100e057600080fd5b506100e96106bc565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561013757600080fd5b506101406106e2565b6040518082815260200191505060405180910390f35b610162816002546106e8565b3414151561016f57600080fd5b80600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561022d57600080fd5b505af1158015610241573d6000803e3d6000fd5b505050506040513d602081101561025757600080fd5b81019080805190602001909291905050501015151561027557600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb33836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561033a57600080fd5b505af115801561034e573d6000803e3d6000fd5b505050506040513d602081101561036457600080fd5b8101908080519060200190929190505050151561038057600080fd5b806003600082825401925050819055507f5e5e995ce3133561afceaa51a9a154d5db228cd7525d34df5185582c18d3df093382604051808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019250505060405180910390a150565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561045957600080fd5b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166370a08231306040518263ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001915050602060405180830381600087803b15801561057657600080fd5b505af115801561058a573d6000803e3d6000fd5b505050506040513d60208110156105a057600080fd5b81019080805190602001909291905050506040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561063657600080fd5b505af115801561064a573d6000803e3d6000fd5b505050506040513d602081101561066057600080fd5b8101908080519060200190929190505050151561067c57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b60035481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60025481565b6000808214806107075750828283850292508281151561070457fe5b04145b151561071257600080fd5b929150505600a165627a7a72305820f2b0e0de350a87d16e07b97a0fd78ec9245ac7b7ca5305d48fdce69bdcfa9b910029",
   "sourceMap": "57:1432:1:-;;;312:219;8:9:-1;5:2;;;30:1;27;20:12;5:2;312:219:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;413:10;405:5;;:18;;;;;;;;;;;;;;;;;;465:14;449:13;;:30;;;;;;;;;;;;;;;;;;515:11;502:10;:24;;;;312:219;;57:1432;;;;;;",
   "deployedSourceMap": "57:1432:1:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;667:525;;;;;;;;;;;;;;;;;;;;;;;;;;1231:253;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1231:253:1;;;;;;195:25;;8:9:-1;5:2;;;30:1;27;20:12;5:2;195:25:1;;;;;;;;;;;;;;;;;;;;;;;132:30;;8:9:-1;5:2;;;30:1;27;20:12;5:2;132:30:1;;;;;;;;;;;;;;;;;;;;;;;;;;;166:25;;8:9:-1;5:2;;;30:1;27;20:12;5:2;166:25:1;;;;;;;;;;;;;;;;;;;;;;;667:525;798:37;807:15;824:10;;798:8;:37::i;:::-;785:9;:50;777:59;;;;;;;;932:15;899:13;;;;;;;;;;;:23;;;923:4;899:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;899:29:1;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;899:29:1;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;899:29:1;;;;;;;;;;;;;;;;:48;;891:57;;;;;;;;1005:13;;;;;;;;;;;:22;;;1028:10;1040:15;1005:51;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1005:51:1;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1005:51:1;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;1005:51:1;;;;;;;;;;;;;;;;997:60;;;;;;;;1109:15;1095:10;;:29;;;;;;;;;;;1154:33;1159:10;1171:15;1154:33;;;;;;;;;;;;;;;;;;;;;;;;;;;;667:525;:::o;1231:253::-;1304:5;;;;;;;;;;;1290:19;;:10;:19;;;1282:28;;;;;;;;1370:13;;;;;;;;;;;:22;;;1393:5;;;;;;;;;;;1400:13;;;;;;;;;;;:23;;;1424:4;1400:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1400:29:1;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1400:29:1;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;1400:29:1;;;;;;;;;;;;;;;;1370:60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1370:60:1;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1370:60:1;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;1370:60:1;;;;;;;;;;;;;;;;1362:69;;;;;;;;1473:5;;;;;;;;;;;1460:19;;;195:25;;;;:::o;132:30::-;;;;;;;;;;;;;:::o;166:25::-;;;;:::o;550:114::-;607:6;633:1;628;:6;:30;;;;657:1;652;647;643;:5;639:9;;;638:15;;;;;;;;:20;628:30;620:39;;;;;;;;550:114;;;;:::o",
   "source": "pragma solidity ^0.4.22;\r\n\r\nimport \"./DappToken.sol\";\r\n\r\ncontract DappTokenSale {\r\n\t// admin 沒使用public...\r\n\taddress admin;\t\r\n\tDappToken public tokenContract;\r\n\tuint256 public tokenPrice;\r\n\tuint256 public tokensSold;\r\n\r\n\tevent Sell(address _buyer, uint256 _amount);\r\n\r\n\t// 建構子用migration 初始化\r\n\tconstructor(DappToken _tokenContract, uint256 _tokenPrice) public {\r\n\t\t// Assign an admin\r\n\t\tadmin = msg.sender;\r\n\t\t// Token Contract\r\n\t\ttokenContract = _tokenContract;\r\n\t\t// Token Price\r\n\t\ttokenPrice = _tokenPrice;\r\n\t}\r\n\r\n\t// multiply\r\n\tfunction multiply(uint x, uint y) internal pure returns (uint z) {\r\n\t\trequire(y == 0 || (z = x * y) / y == x);\r\n\t}\r\n\tfunction buyTokens(uint256 _numberOfTokens) public payable {\r\n\r\n\t\t// Require that value is equal to tokens\r\n\t\trequire(msg.value == multiply(_numberOfTokens, tokenPrice));\r\n\t\t// Require that the contract has enough tokens\r\n\t\trequire(tokenContract.balanceOf(this) >= _numberOfTokens);\r\n\t\t// Require that a transfer is successful\r\n\t\trequire(tokenContract.transfer(msg.sender, _numberOfTokens));\t\r\n\r\n\t\t// Keep track of tokenSold\r\n\t\ttokensSold += _numberOfTokens;\r\n\t\t// Trigger Sell Event\r\n\t\tSell(msg.sender, _numberOfTokens);\r\n\t}\r\n\r\n\r\n\t// Ending Token DappTokenSale\r\n\tfunction endSale() public {\r\n\t\t//\tRequire admin\r\n\t\trequire(msg.sender == admin);\r\n\t\t//  Transfer remaining dapp tokens to admin\r\n\t\trequire(tokenContract.transfer(admin, tokenContract.balanceOf(this)));\r\n\t\t//  Destroy contract\r\n\t\tselfdestruct(admin);\r\n\t}\r\n\r\n}",
@@ -362,7 +362,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 336,
+                        "referencedDeclaration": 393,
                         "src": "413:3:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -814,10 +814,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "620:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -980,7 +980,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 336,
+                            "referencedDeclaration": 393,
                             "src": "785:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -1087,10 +1087,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "777:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1139,7 +1139,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 351,
+                              "referencedDeclaration": 408,
                               "src": "923:4:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_DappTokenSale_$321",
@@ -1228,10 +1228,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "891:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1271,7 +1271,7 @@
                               "name": "msg",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 336,
+                              "referencedDeclaration": 393,
                               "src": "1028:3:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_magic_message",
@@ -1370,10 +1370,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "997:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1456,7 +1456,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 336,
+                          "referencedDeclaration": 393,
                           "src": "1159:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -1616,7 +1616,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 336,
+                            "referencedDeclaration": 393,
                             "src": "1290:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -1670,10 +1670,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "1282:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1727,7 +1727,7 @@
                                 "name": "this",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 351,
+                                "referencedDeclaration": 408,
                                 "src": "1424:4:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_contract$_DappTokenSale_$321",
@@ -1848,10 +1848,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "1362:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1905,7 +1905,7 @@
                       "name": "selfdestruct",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 344,
+                      "referencedDeclaration": 401,
                       "src": "1460:12:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_selfdestruct_nonpayable$_t_address_$returns$__$",
@@ -2223,7 +2223,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 336,
+                        "referencedDeclaration": 393,
                         "src": "413:3:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -2675,10 +2675,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "620:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2841,7 +2841,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 336,
+                            "referencedDeclaration": 393,
                             "src": "785:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -2948,10 +2948,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "777:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3000,7 +3000,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 351,
+                              "referencedDeclaration": 408,
                               "src": "923:4:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_DappTokenSale_$321",
@@ -3089,10 +3089,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "891:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3132,7 +3132,7 @@
                               "name": "msg",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 336,
+                              "referencedDeclaration": 393,
                               "src": "1028:3:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_magic_message",
@@ -3231,10 +3231,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "997:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3317,7 +3317,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 336,
+                          "referencedDeclaration": 393,
                           "src": "1159:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -3477,7 +3477,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 336,
+                            "referencedDeclaration": 393,
                             "src": "1290:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -3531,10 +3531,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "1282:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3588,7 +3588,7 @@
                                 "name": "this",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 351,
+                                "referencedDeclaration": 408,
                                 "src": "1424:4:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_contract$_DappTokenSale_$321",
@@ -3709,10 +3709,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        339,
-                        340
+                        396,
+                        397
                       ],
-                      "referencedDeclaration": 339,
+                      "referencedDeclaration": 396,
                       "src": "1362:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3766,7 +3766,7 @@
                       "name": "selfdestruct",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 344,
+                      "referencedDeclaration": 401,
                       "src": "1460:12:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_selfdestruct_nonpayable$_t_address_$returns$__$",
@@ -3832,6 +3832,12 @@
     "version": "0.4.24+commit.e67f0147.Emscripten.clang"
   },
   "networks": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0x2857e9b2bde3cc61fac0f7b2a8cd9dd8837e4f08",
+      "transactionHash": "0x14c7d9417edae7500e307c67eae7243097de07305d68da0840df9b2290e7f438"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -3840,5 +3846,5 @@
     }
   },
   "schemaVersion": "2.0.0",
-  "updatedAt": "2019-07-30T16:48:07.255Z"
+  "updatedAt": "2019-08-02T05:58:08.042Z"
 }
