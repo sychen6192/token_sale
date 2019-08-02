@@ -19,6 +19,7 @@ App = {
 		} else {
 			App.web3Provider = new Web3.providers.HttpProvider('http://localhost:7545');
 			web3 = new Web3(App.web3Provider);
+			alert('請至Chrome擴充功能安裝Metamask!\nhttps://metamask.io/');
 		}
 
 
